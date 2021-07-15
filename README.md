@@ -28,13 +28,7 @@ Anatomy of html tags
    .html extenstion
    <meta charset='utf8'> : to incude some special features like emojs,proper format e.t.c
    <hr>
-  list
-     <ul>
-         <li>
-    
-   <ol>
-      <li>
-
+  
 <img> 
 self closing tag, it also has many attributes to style
 
