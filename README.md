@@ -35,7 +35,7 @@ Anatomy of html tags
    <ol>
       <li>
 
-<img> - self closing tag, it also has many attributes to style
+<img>  self closing tag, it also has many attributes to style
 
 <a href="link"> to use an hyper link. to link pages
 
