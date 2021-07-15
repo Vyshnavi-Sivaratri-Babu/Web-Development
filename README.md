@@ -28,14 +28,15 @@ Anatomy of html tags
    .html extenstion
    <meta charset='utf8'> : to incude some special features like emojs,proper format e.t.c
    <hr>
-  list:
+  list
      <ul>
          <li>
     
    <ol>
       <li>
 
-<img>  self closing tag, it also has many attributes to style
+<img> 
+self closing tag, it also has many attributes to style
 
 <a href="link"> to use an hyper link. to link pages
 
