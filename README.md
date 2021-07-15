@@ -84,7 +84,7 @@ Anatomy of css
 
      class can have more tham one class but ids can't
 
-- favicons: a logo in title bar
+ favicons: a logo in title bar
 
 box model:
           margin 
