@@ -1,32 +1,6 @@
 # Web-Development
-
-how internet works?
-  help of server
-   client(search a website)->internet service provider->DNS server(Ip address of the website)->internet backbone-> server
-
-how do websites work?
-  html-structure
-  css-style the website
-  js-allow the website to do things and behaviour
-
+Projects done during the complete 2021 web development course on udemy. Course include HTML5, CSS3, ES6 , BootStrap 4, Jquery, Nodejs, ExpressJs, SQL, NoSQL, MongoDB, mongoose, using APIs, Authentication and Security, CLi, EJS, Git commits and React Js,how internet works?, how do websites work?
  
-HTML- Hyper Text Markup Language
-            specifies layers and structure
 
-<tage name>
-heading tag: as the heading tag numbering increase the font size decreases
- we have h1......h6.after h7 font size doesn"t decrease.
-
-Anatomy of html tags
- 
-   opening tag
-   ending tag
-   content
-   self closing tag
-   html element (br,h1,b..........)
-   html attribute(size,color.....): to modify the output
-   .html extenstion
-   <meta charset='utf8'> : to incude some special features like emojs,proper format e.t.c
-   <hr>
   
 
